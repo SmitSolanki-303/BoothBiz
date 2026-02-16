@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 import ExpenseImg from "../assets/events-image.png"
 import StallImg from "../assets/stall-image.png"
-import PosImg from "../assets/Pos-image.png"
+import PosImg from "../assets/pos-image.png"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 
